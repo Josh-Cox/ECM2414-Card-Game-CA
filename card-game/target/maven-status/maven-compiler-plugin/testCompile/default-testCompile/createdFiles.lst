@@ -1,0 +1,6 @@
+cards\PackTest.class
+cards\CardGameTest.class
+cards\CardDeckTest.class
+cards\CardTest.class
+cards\MainTestSuite.class
+cards\PlayerTest.class
