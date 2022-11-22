@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="MainTestSuite" time="0.069" tests="14" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="MainTestSuite" time="0.068" tests="14" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="18"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\MavenECM2414\card-game\target\test-classes;C:\MavenECM2414\card-game\target\classes;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.1\junit-jupiter-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.8.1\junit-platform-suite-engine-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-api\1.8.1\junit-platform-suite-api-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.8.1\junit-platform-suite-commons-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.1\junit-platform-launcher-1.8.1.jar;"/>
+    <property name="java.class.path" value="C:\ECM2414-Card-Game-CA\card-game\target\test-classes;C:\ECM2414-Card-Game-CA\card-game\target\classes;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.1\junit-jupiter-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.8.1\junit-platform-suite-engine-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-api\1.8.1\junit-platform-suite-api-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.8.1\junit-platform-suite-commons-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.1\junit-platform-launcher-1.8.1.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\Joshc\AppData\Local\Temp\surefire9691658126610986416\surefirebooter9105910978031524473.jar C:\Users\Joshc\AppData\Local\Temp\surefire9691658126610986416 2022-11-22T11-42-43_234-jvmRun1 surefire10678740409159682118tmp surefire_09866509872762870169tmp"/>
+    <property name="sun.java.command" value="C:\Users\Joshc\AppData\Local\Temp\surefire3645986581874413427\surefirebooter2616000840309030026.jar C:\Users\Joshc\AppData\Local\Temp\surefire3645986581874413427 2022-11-22T12-05-08_055-jvmRun1 surefire1394679777197915396tmp surefire_09865811755805133895tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\MavenECM2414\card-game\target\test-classes;C:\MavenECM2414\card-game\target\classes;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.1\junit-jupiter-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.8.1\junit-platform-suite-engine-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-api\1.8.1\junit-platform-suite-api-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.8.1\junit-platform-suite-commons-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.1\junit-platform-launcher-1.8.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\ECM2414-Card-Game-CA\card-game\target\test-classes;C:\ECM2414-Card-Game-CA\card-game\target\classes;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.1\junit-jupiter-params-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.1\junit-jupiter-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.8.1\junit-platform-suite-engine-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-api\1.8.1\junit-platform-suite-api-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.8.1\junit-platform-suite-commons-1.8.1.jar;C:\Users\Joshc\.m2\repository\org\junit\platform\junit-platform-launcher\1.8.1\junit-platform-launcher-1.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Joshc"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2022-08-18"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-18.0.2.1"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\MavenECM2414\card-game"/>
+    <property name="basedir" value="C:\ECM2414-Card-Game-CA\card-game"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Joshc\AppData\Local\Temp\surefire9691658126610986416\surefirebooter9105910978031524473.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Joshc\AppData\Local\Temp\surefire3645986581874413427\surefirebooter2616000840309030026.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="18.0.2.1+1-1"/>
@@ -44,7 +44,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\Joshc\AppData\Local\Temp\"/>
     <property name="java.version" value="18.0.2.1"/>
-    <property name="user.dir" value="C:\MavenECM2414\card-game"/>
+    <property name="user.dir" value="C:\ECM2414-Card-Game-CA\card-game"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -58,16 +58,16 @@
   </properties>
   <testcase name="takeCardTest" classname="cards.CardDeckTest" time="0.017"/>
   <testcase name="addCardTest" classname="cards.CardDeckTest" time="0.001"/>
-  <testcase name="getDeckNumberTest" classname="cards.CardDeckTest" time="0.001"/>
+  <testcase name="getDeckNumberTest" classname="cards.CardDeckTest" time="0"/>
   <testcase name="getAndSetDeckContentTest" classname="cards.CardDeckTest" time="0.002"/>
   <testcase name="checkPackAndPlayersTest" classname="cards.CardGameTest" time="0.002"/>
   <testcase name="getPackTest" classname="cards.PackTest" time="0.002"/>
-  <testcase name="getValueTest" classname="cards.CardTest" time="0.001"/>
-  <testcase name="getDeckFromNumberTest" classname="cards.PlayerTest" time="0.002"/>
-  <testcase name="getAndSetHandTest" classname="cards.PlayerTest" time="0.001"/>
-  <testcase name="playerWonTest" classname="cards.PlayerTest" time="0.001"/>
-  <testcase name="discardCardTest" classname="cards.PlayerTest" time="0"/>
-  <testcase name="getAndSetPickUpDeckTest" classname="cards.PlayerTest" time="0"/>
-  <testcase name="getPlayerNumberTest" classname="cards.PlayerTest" time="0"/>
+  <testcase name="getValueTest" classname="cards.CardTest" time="0"/>
+  <testcase name="getDeckFromNumberTest" classname="cards.PlayerTest" time="0.001"/>
+  <testcase name="getAndSetHandTest" classname="cards.PlayerTest" time="0"/>
+  <testcase name="playerWonTest" classname="cards.PlayerTest" time="0"/>
+  <testcase name="discardCardTest" classname="cards.PlayerTest" time="0.001"/>
+  <testcase name="getAndSetPickUpDeckTest" classname="cards.PlayerTest" time="0.001"/>
+  <testcase name="getPlayerNumberTest" classname="cards.PlayerTest" time="0.002"/>
   <testcase name="getAndSetDiscardDeckTest" classname="cards.PlayerTest" time="0.001"/>
 </testsuite>
