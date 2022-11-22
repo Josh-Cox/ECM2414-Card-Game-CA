@@ -54,7 +54,7 @@ This will run the 'MainTestSuite' which includes all unit tests.
 ![Test Suite](/card-game/resources/Test%20Suite.png)
 
 This will run the 'MainTestSuite' which includes all unit tests.
-<br>
+---
 
 
 |           |                         |
