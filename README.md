@@ -43,7 +43,7 @@ This will run the 'MainTestSuite' which includes all unit tests.
 
 ### Visual Studio Code
 1. Download [VSCode](https://code.visualstudio.com/download) for your respective operating system
-1. Open the 'ECM2414-Card-Game` folder in VSCode
+1. Open the 'ECM2414-Card-Game' folder in VSCode
 1. In extensions install 'Extension Pack for Java'
 
 ![Extension Pack](/card-game/resources/Extension%20Pack.png)
