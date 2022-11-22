@@ -35,15 +35,17 @@ To run the test suite you will either need to install apache maven, or open the 
 1. Download the [apache-maven zip](https://maven.apache.org/download.cgi)
 1. Follow the instructions [here](https://maven.apache.org/install.html) for your
 respective operating system
+1. Ensure in your system environment variables you have a 'JAVA_HOME' variable pointing to your jdk folder
+1. In your system varaible 'Path' make sure you are pointing to the maven bin you just downloaded
 1. Use a command line/terminal to navigate to the location you downloaded the project
-1. Navigate to the 'card-game' folder using `cd ECM2414-Card-Game/card-game`
+1. Navigate to the 'card-game' folder using `cd ECM2414-Card-Game-CA/card-game`
 1. Run the test suite using `mvn clean test`
 
 This will run the 'MainTestSuite' which includes all unit tests.
 
 ### Visual Studio Code
 1. Download [VSCode](https://code.visualstudio.com/download) for your respective operating system
-1. Open the 'ECM2414-Card-Game' folder in VSCode
+1. Open the 'ECM2414-Card-Game-CA' folder in VSCode
 1. In extensions install 'Extension Pack for Java'
 
 ![Extension Pack](/card-game/resources/Extension%20Pack.png)
@@ -62,5 +64,5 @@ This will run the 'MainTestSuite' which includes all unit tests.
 | :-------: |:-----------------------:|
 |      ```Author```     |     Josh Cox & Dora Napier   |
 |     ```License```     |        MIT       |
-|   ```Source Code```   |     https://github.com/Josh-Cox/ECM2414-Card-Game    |
+|   ```Source Code```   |     https://github.com/Josh-Cox/ECM2414-Card-Game-CA    |
 |           |                         |
