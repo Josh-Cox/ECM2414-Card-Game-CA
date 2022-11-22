@@ -57,7 +57,6 @@ This will run the 'MainTestSuite' which includes all unit tests.
 
 <br>
 
----
 
 |           |                         |
 | :-------: |:-----------------------:|
