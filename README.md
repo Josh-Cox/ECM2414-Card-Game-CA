@@ -35,7 +35,8 @@ To run the test suite you will either need to install apache maven, or open the 
 1. Download the [apache-maven zip](https://maven.apache.org/download.cgi)
 1. Follow the instructions [here](https://maven.apache.org/install.html) for your
 respective operating system
-1. Ensure in your system environment variables you have a 'JAVA_HOME' variable pointing to your jdk folder and that in 'Path' you are pointing to the maven bin you just downloaded
+1. Ensure in your system environment variables you have a 'JAVA_HOME' variable pointing to your jdk folder
+1. In your system varaible 'Path' make sure you are pointing to the maven bin you just downloaded
 1. Use a command line/terminal to navigate to the location you downloaded the project
 1. Navigate to the 'card-game' folder using `cd ECM2414-Card-Game-CA/card-game`
 1. Run the test suite using `mvn clean test`
